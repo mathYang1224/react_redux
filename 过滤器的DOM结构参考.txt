@@ -1,0 +1,32 @@
+<ul>
+	<li>
+		<div class="filter_name">
+			类型：
+		</div>
+		<div class="filter_types">
+			<a href="javascript:void(0);">精品图赏</a>
+			<a href="javascript:void(0);">精品图赏</a>
+			<a href="javascript:void(0);" >精品图赏</a>
+			<a href="javascript:void(0);" class="cur">精品图赏</a>
+			<a href="javascript:void(0);">精品图赏</a>
+		</div>
+	</li>
+	<li>
+		<div class="filter_name">
+			场景：
+		</div>
+		<div class="filter_types">
+			<a href="javascript:void(0);">效果图</a>
+			<a href="javascript:void(0);">效果图</a>
+		</div>
+	</li>
+	<li>
+		<div class="filter_name">
+			颜色：
+		</div>
+		<div class="filter_types">
+			<a href="javascript:void(0);" class="color_choose"></a>
+			<a href="javascript:void(0);" class="color_choose"></a>
+		</div>
+	</li>
+</ul>
